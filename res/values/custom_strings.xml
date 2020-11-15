@@ -78,6 +78,12 @@
     <string name="network_traffic_autohide_title">Hide network traffic indicator is inactive</string>
     <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1 KB/s</string>
 
+    <!-- Lockscreen media art -->
+    <string name="lockscreen_media_art_category_title">Media art</string>
+    <string name="keygaurd_media_art_title">Display media cover art</string>
+    <string name="keygaurd_media_art_summary">Show current playing media\'s album art on lockscreen</string>
+    <string name="lockscreen_media_blur_title">Media art blur level</string>
+
     <!-- Display customization category -->
     <string name="customization_category_title">Customization</string>
 
