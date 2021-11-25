@@ -97,6 +97,11 @@
     <!-- Display customization category -->
     <string name="customization_category_title">Customization</string>
 
+    <!-- Fullscreen gestures -->
+    <string name="other_controls_title">Other controls</string>
+    <string name="fullscreen_gestures_title">Fullscreen gestures</string>
+    <string name="fullscreen_gestures_summary">Hide navbar pill and keyboard space</string>
+
     <!-- QS footer data usage -->
     <string name="qs_show_data_usage_title">Show data usage</string>
     <string name="qs_show_data_usage_summary">Show daily cellular/Wi-Fi data usage in QS footer</string>
